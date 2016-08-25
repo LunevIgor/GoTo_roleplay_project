@@ -1,0 +1,1264 @@
+Vasya 200
+Kolya 200
+Vasya 200
+Kolya 145
+Vasya 50
+Kolya 145
+Vasya 200
+Kolya 200
+Vasya 200
+Kolya 145
+Vasya 50
+Kolya 145
+Vasya 200
+Kolya 200
+Vasya 200
+Kolya 145
+Vasya 50
+Kolya 145
+Vasya 200
+Kolya 200
+Vasya 200
+Kolya 145
+Vasya 50
+Kolya 145
+Vasya 200
+Kolya 200
+Vasya 200
+Kolya 195
+Vasya 199
+Kolya 195
+Vasya 200
+Kolya 200
+Vasya 200
+Kolya 195
+Vasya 199
+Kolya 195
+Vasya 200
+Kolya 200
+Vasya 200
+Kolya 195
+Vasya 199
+Kolya 195
+Vasya 200
+Kolya 200
+Vasya 200
+Kolya 195
+Vasya 199
+Kolya 195
+Vasya 200
+Kolya 200
+Vasya 200
+Kolya 195
+Vasya 199
+Kolya 195
+Vasya 200
+Kolya 200
+Vasya 200
+Kolya 195
+Vasya 199
+Kolya 195
+Vasya 200
+Kolya 200
+Vasya 200
+Kolya 195
+Vasya 199
+Kolya 195
+Vasya 200
+Kolya 200
+Vasya 200
+Kolya 195
+Vasya 199
+Kolya 195
+Vasya 200
+Kolya 200
+Vasya 200
+Kolya 195
+Vasya 199
+Kolya 195
+Vasya 200
+Kolya 195
+Vasya 199
+Kolya 195
+Vasya 200
+Kolya 195
+Vasya 199
+Kolya 195
+Vasya 200
+Kolya 195
+Vasya 199
+Kolya 195
+Vasya 200
+Kolya 195
+Vasya 199
+Kolya 195
+Vasya 200
+Kolya 195
+Vasya 199
+Kolya 195
+Vasya 199
+Kolya 190
+Vasya 198
+Kolya 190
+Vasya 199
+Kolya 190
+Vasya 198
+Kolya 190
+Vasya 199
+Kolya 190
+Vasya 198
+Kolya 190
+Vasya 190
+Kolya -5
+Vasya 189
+Kolya -5
+Vasya 1
+Kolya 94
+Vasya 0
+Kolya 94
+Vasya 199
+Kolya 190
+Vasya 198
+Kolya 190
+Vasya 199
+Kolya 190
+Vasya 198
+Kolya 190
+Vasya 199
+Kolya 190
+Vasya 198
+Kolya 190
+Vasya 198
+Kolya 185
+Vasya 197
+Kolya 185
+Vasya 198
+Kolya 185
+Vasya 197
+Kolya 185
+Vasya 2
+Kolya -5
+Vasya 1
+Kolya -5
+Vasya 200
+Kolya 195
+Vasya 199
+Kolya 195
+Vasya 199
+Kolya 190
+Vasya 198
+Kolya 190
+Vasya 198
+Kolya 185
+Vasya 197
+Kolya 185
+Vasya 197
+Kolya 180
+Vasya 196
+Kolya 180
+Vasya 196
+Kolya 175
+Vasya 195
+Kolya 175
+Vasya 195
+Kolya 170
+Vasya 194
+Kolya 170
+Vasya 194
+Kolya 165
+Vasya 193
+Kolya 165
+Vasya 200
+Kolya 190
+Vasya 190
+Kolya 190
+Vasya 190
+Kolya 180
+Vasya 180
+Kolya 180
+Vasya 200
+Kolya 185
+Vasya 185
+Kolya 185
+Vasya 185
+Kolya 170
+Vasya 170
+Kolya 170
+Vasya 170
+Kolya 155
+Vasya 155
+Kolya 155
+Vasya 200
+Kolya 200
+Dima 200
+Vasya 200
+Kolya 200
+Dima 200
+Vasya 200
+Kolya 185
+Dima 200
+Vasya 200
+Kolya 170
+Dima 200
+Vasya 200
+Kolya 155
+Dima 200
+Vasya 200
+Kolya 155
+Dima 185
+Vasya 200
+Kolya 155
+Dima 170
+Vasya 200
+Kolya 155
+Dima 155
+Vasya 200
+Kolya 155
+Dima 140
+Vasya 185
+Kolya 155
+Dima 140
+Vasya 170
+Kolya 155
+Dima 140
+Vasya 155
+Kolya 155
+Dima 140
+Vasya 140
+Kolya 155
+Dima 140
+Vasya 140
+Kolya 155
+Dima 125
+Vasya 140
+Kolya 140
+Dima 125
+Vasya 125
+Kolya 140
+Dima 125
+Vasya 110
+Kolya 140
+Dima 125
+Vasya 95
+Kolya 140
+Dima 125
+Vasya 95
+Kolya 125
+Dima 125
+Vasya 95
+Kolya 125
+Dima 110
+Vasya 80
+Kolya 125
+Dima 110
+Vasya 65
+Kolya 125
+Dima 110
+Vasya 65
+Kolya 125
+Dima 95
+Vasya 65
+Kolya 125
+Dima 80
+Vasya 65
+Kolya 110
+Dima 80
+Vasya 65
+Kolya 95
+Dima 80
+Vasya 65
+Kolya 80
+Dima 80
+Vasya 50
+Kolya 80
+Dima 80
+Vasya 2000
+Kolya 2000
+Dima 1985
+Vasya 2000
+Kolya 2000
+Dima 1970
+Vasya 2000
+Kolya 1985
+Dima 1970
+Vasya 1985
+Kolya 1985
+Dima 1970
+Vasya 1970
+Kolya 1985
+Dima 1970
+Vasya 1970
+Kolya 1985
+Dima 1955
+Vasya 1955
+Kolya 1985
+Dima 1955
+Vasya 1940
+Kolya 1985
+Dima 1955
+Vasya 1940
+Kolya 1985
+Dima 1940
+Vasya 1925
+Kolya 1985
+Dima 1940
+Vasya 1925
+Kolya 1970
+Dima 1940
+Vasya 1910
+Kolya 1970
+Dima 1940
+Vasya 1910
+Kolya 1970
+Dima 1925
+Vasya 1895
+Kolya 1970
+Dima 1925
+Vasya 1880
+Kolya 1970
+Dima 1925
+Vasya 1865
+Kolya 1970
+Dima 1925
+Vasya 1865
+Kolya 1955
+Dima 1925
+Vasya 1850
+Kolya 1955
+Dima 1925
+Vasya 1850
+Kolya 1930
+Dima 1925
+Vasya 1850
+Kolya 1905
+Dima 1925
+Vasya 1825
+Kolya 1905
+Dima 1925
+Vasya 1825
+Kolya 1880
+Dima 1925
+Vasya 1800
+Kolya 1880
+Dima 1925
+Vasya 1800
+Kolya 1855
+Dima 1925
+Vasya 50
+Kolya 25
+Dima 50
+Vasya 25
+Kolya 25
+Dima 50
+Vasya 0
+Kolya 25
+Dima 50
+Vasya 0
+Kolya 25
+Dima 25
+Vasya -25
+Kolya 25
+Dima 25
+Vasya -25
+Kolya 0
+Dima 25
+Vasya 50
+Kolya 50
+Dima 35
+Vasya 50
+Kolya 50
+Dima 20
+Vasya 50
+Kolya 50
+Dima 5
+Vasya 50
+Kolya 50
+Dima -10
+Vasya 50
+Kolya 35
+Dima -10
+Vasya 35
+Kolya 35
+Dima -10
+Vasya 70
+Kolya 55
+Dima 70
+Vasya 55
+Kolya 55
+Dima 70
+Vasya 40
+Kolya 55
+Dima 70
+Vasya 40
+Kolya 40
+Dima 70
+Vasya 25
+Kolya 40
+Dima 70
+Vasya 10
+Kolya 40
+Dima 70
+Vasya 100
+Kolya 85
+Dima 100
+Vasya 100
+Kolya 70
+Dima 100
+Vasya 85
+Kolya 70
+Dima 100
+Vasya 70
+Kolya 70
+Dima 100
+Vasya 70
+Kolya 70
+Dima 85
+Vasya 55
+Kolya 70
+Dima 85
+Vasya 85
+Kolya 100
+Dima 100
+Vasya 85
+Kolya 100
+Dima 85
+Vasya 70
+Kolya 100
+Dima 85
+Vasya 70
+Kolya 100
+Dima 70
+Vasya 70
+Kolya 100
+Dima 55
+Vasya 55
+Kolya 100
+Dima 55
+Vasya 40
+Kolya 100
+Dima 55
+Vasya 25
+Kolya 100
+Dima 55
+Vasya 25
+Kolya 100
+Dima 40
+Vasya 25
+Kolya 100
+Dima 25
+Vasya 10
+Kolya 100
+Dima 25
+Vasya -5
+Kolya 100
+Dima 25
+Vasya 85
+Kolya 100
+Dima 100
+Vasya 70
+Kolya 100
+Dima 100
+Vasya 55
+Kolya 100
+Dima 100
+Vasya 55
+Kolya 85
+Dima 100
+Vasya 55
+Kolya 85
+Dima 85
+Vasya 40
+Kolya 85
+Dima 85
+Vasya 25
+Kolya 85
+Dima 85
+Vasya 10
+Kolya 85
+Dima 85
+Vasya 10
+Kolya 85
+Dima 70
+Vasya -5
+Kolya 85
+Dima 70
+Vasya -20
+Kolya 85
+Dima 70
+Vasya -35
+Kolya 85
+Dima 70
+Vasya -35
+Kolya 85
+Dima 55
+Vasya -50
+Kolya 85
+Dima 55
+Vasya -50
+Kolya 85
+Dima 40
+Vasya -65
+Kolya 85
+Dima 40
+Vasya -80
+Kolya 85
+Dima 40
+Vasya -80
+Kolya 70
+Dima 40
+Vasya -80
+Kolya 70
+Dima 25
+Vasya -95
+Kolya 70
+Dima 25
+Vasya -95
+Kolya 55
+Dima 25
+Vasya -110
+Kolya 55
+Dima 25
+Vasya -125
+Kolya 55
+Dima 25
+Vasya -140
+Kolya 55
+Dima 25
+Vasya -155
+Kolya 55
+Dima 25
+Vasya -155
+Kolya 55
+Dima 10
+Vasya -170
+Kolya 55
+Dima 10
+Vasya -170
+Kolya 40
+Dima 10
+Vasya -185
+Kolya 40
+Dima 10
+Vasya -185
+Kolya 40
+Dima -5
+Vasya -185
+Kolya 40
+Dima -20
+Vasya -185
+Kolya 25
+Dima -20
+Vasya -185
+Kolya 10
+Dima -20
+Vasya -185
+Kolya 10
+Dima -35
+Vasya -185
+Kolya 10
+Dima -50
+Vasya -185
+Kolya -5
+Dima -50
+Vasya -185
+Kolya -20
+Dima -50
+Vasya -185
+Kolya -20
+Dima -65
+Vasya -185
+Kolya -20
+Dima -80
+Vasya -200
+Kolya -20
+Dima -80
+Vasya -200
+Kolya -20
+Dima -95
+Vasya -200
+Kolya -35
+Dima -95
+Vasya -215
+Kolya -35
+Dima -95
+Vasya -215
+Kolya -35
+Dima -110
+Vasya -215
+Kolya -35
+Dima -125
+Vasya -215
+Kolya -35
+Dima -140
+Vasya -230
+Kolya -35
+Dima -140
+Vasya -245
+Kolya -35
+Dima -140
+Vasya -245
+Kolya -35
+Dima -155
+Vasya -260
+Kolya -35
+Dima -155
+Vasya -260
+Kolya -50
+Dima -155
+Vasya -260
+Kolya -50
+Dima -170
+Vasya -260
+Kolya -50
+Dima -185
+Vasya -260
+Kolya -50
+Dima -200
+Vasya -275
+Kolya -50
+Dima -200
+Vasya -275
+Kolya -50
+Dima -215
+Vasya -275
+Kolya -65
+Dima -215
+Vasya -275
+Kolya -65
+Dima -230
+Vasya -275
+Kolya -80
+Dima -230
+Vasya -275
+Kolya -80
+Dima -245
+Vasya -275
+Kolya -80
+Dima -260
+Vasya -275
+Kolya -95
+Dima -260
+Vasya -290
+Kolya -95
+Dima -260
+Vasya -305
+Kolya -95
+Dima -260
+Vasya -305
+Kolya -110
+Dima -260
+Vasya -320
+Kolya -110
+Dima -260
+Vasya -320
+Kolya -110
+Dima -275
+Vasya -320
+Kolya -125
+Dima -275
+Vasya -320
+Kolya -125
+Dima -290
+Vasya -335
+Kolya -125
+Dima -290
+Vasya -335
+Kolya -140
+Dima -290
+Vasya -335
+Kolya -140
+Dima -305
+Vasya 1000
+Kolya 1000
+Dima 985
+Vasya 985
+Kolya 1000
+Dima 985
+Vasya 985
+Kolya 985
+Dima 985
+Vasya 970
+Kolya 985
+Dima 985
+Vasya 970
+Kolya 970
+Dima 985
+Vasya 970
+Kolya 955
+Dima 985
+Vasya 955
+Kolya 955
+Dima 985
+Vasya 940
+Kolya 955
+Dima 985
+Vasya 925
+Kolya 955
+Dima 985
+Vasya 925
+Kolya 955
+Dima 970
+Vasya 925
+Kolya 940
+Dima 970
+Vasya 925
+Kolya 940
+Dima 955
+Vasya 925
+Kolya 940
+Dima 940
+Vasya 925
+Kolya 940
+Dima 925
+Vasya 910
+Kolya 940
+Dima 925
+Vasya 895
+Kolya 940
+Dima 925
+Vasya 880
+Kolya 940
+Dima 925
+Vasya 880
+Kolya 925
+Dima 925
+Vasya 865
+Kolya 925
+Dima 925
+Vasya 850
+Kolya 925
+Dima 925
+Vasya 850
+Kolya 910
+Dima 925
+Vasya 835
+Kolya 910
+Dima 925
+Vasya 835
+Kolya 910
+Dima 910
+Vasya 835
+Kolya 910
+Dima 895
+Vasya 835
+Kolya 895
+Dima 895
+Vasya 820
+Kolya 895
+Dima 895
+Vasya 820
+Kolya 895
+Dima 880
+Vasya 820
+Kolya 880
+Dima 880
+Vasya 820
+Kolya 865
+Dima 880
+Vasya 805
+Kolya 865
+Dima 880
+Vasya 805
+Kolya 865
+Dima 865
+Vasya 790
+Kolya 865
+Dima 865
+Vasya 790
+Kolya 865
+Dima 850
+Vasya 775
+Kolya 865
+Dima 850
+Vasya 775
+Kolya 865
+Dima 835
+Vasya 775
+Kolya 865
+Dima 820
+Vasya 760
+Kolya 865
+Dima 820
+Vasya 760
+Kolya 850
+Dima 820
+Vasya 745
+Kolya 850
+Dima 820
+Vasya 745
+Kolya 850
+Dima 805
+Vasya 745
+Kolya 835
+Dima 805
+Vasya 745
+Kolya 820
+Dima 805
+Vasya 730
+Kolya 820
+Dima 805
+Vasya 730
+Kolya 805
+Dima 805
+Vasya 730
+Kolya 805
+Dima 790
+Vasya 730
+Kolya 805
+Dima 775
+Vasya 730
+Kolya 790
+Dima 775
+Vasya 730
+Kolya 775
+Dima 775
+Vasya 730
+Kolya 775
+Dima 760
+Vasya 730
+Kolya 760
+Dima 760
+Vasya 715
+Kolya 760
+Dima 760
+Vasya 715
+Kolya 745
+Dima 760
+Vasya 715
+Kolya 745
+Dima 745
+Vasya 700
+Kolya 745
+Dima 745
+Vasya 700
+Kolya 730
+Dima 745
+Vasya 700
+Kolya 730
+Dima 730
+Vasya 700
+Kolya 715
+Dima 730
+Vasya 700
+Kolya 700
+Dima 730
+Vasya 700
+Kolya 700
+Dima 715
+Vasya 700
+Kolya 700
+Dima 700
+Vasya 700
+Kolya 700
+Dima 685
+Vasya 700
+Kolya 685
+Dima 685
+Vasya 700
+Kolya 670
+Dima 685
+Vasya 685
+Kolya 670
+Dima 685
+Vasya 685
+Kolya 655
+Dima 685
+Vasya 685
+Kolya 655
+Dima 670
+Vasya 670
+Kolya 655
+Dima 670
+Vasya 655
+Kolya 655
+Dima 670
+Vasya 640
+Kolya 655
+Dima 670
+Vasya 625
+Kolya 655
+Dima 670
+Vasya 625
+Kolya 640
+Dima 670
+Vasya 625
+Kolya 625
+Dima 670
+Vasya 625
+Kolya 610
+Dima 670
+Vasya 625
+Kolya 595
+Dima 670
+Vasya 625
+Kolya 595
+Dima 655
+Vasya 625
+Kolya 580
+Dima 655
+Vasya 625
+Kolya 580
+Dima 640
+Vasya 625
+Kolya 580
+Dima 625
+Vasya 15 alive
+Kolya 15 alive
+Dima 0 dead
+Vasya 15 alive
+Kolya 15 alive
+Dima -15 dead
+Vasya 15 alive
+Kolya 0 dead
+Dima -15 dead
+Vasya 0 dead
+Kolya 0 dead
+Dima -15 dead
+Vasya -15 dead
+Kolya 0 dead
+Dima -15 dead
+Vasya -15 dead
+Kolya 0 dead
+Dima -30 dead
+Vasya -15 dead
+Kolya -15 dead
+Dima -30 dead
+Vasya -15 dead
+Kolya -15 dead
+Dima -45 dead
+Vasya -15 dead
+Kolya -15 dead
+Dima -60 dead
+Vasya -15 dead
+Kolya -30 dead
+Dima -60 dead
+Vasya -15 dead
+Kolya -30 dead
+Dima -75 dead
+Vasya -15 dead
+Kolya -30 dead
+Dima -90 dead
+Vasya -15 dead
+Kolya -45 dead
+Dima -90 dead
+Vasya -30 dead
+Kolya -45 dead
+Dima -90 dead
+Vasya -30 dead
+Kolya -45 dead
+Dima -105 dead
+Vasya -45 dead
+Kolya -45 dead
+Dima -105 dead
+Vasya -45 dead
+Kolya -45 dead
+Dima -120 dead
+Vasya -60 dead
+Kolya -45 dead
+Dima -120 dead
+Vasya -60 dead
+Kolya -45 dead
+Dima -135 dead
+Vasya -60 dead
+Kolya -60 dead
+Dima -135 dead
+Vasya -60 dead
+Kolya -75 dead
+Dima -135 dead
+Vasya -75 dead
+Kolya -75 dead
+Dima -135 dead
+Vasya -75 dead
+Kolya -90 dead
+Dima -135 dead
+Vasya -90 dead
+Kolya -90 dead
+Dima -135 dead
+Vasya -105 dead
+Kolya -90 dead
+Dima -135 dead
+Vasya -105 dead
+Kolya -90 dead
+Dima -150 dead
+Vasya -105 dead
+Kolya -105 dead
+Dima -150 dead
+Vasya -120 dead
+Kolya -105 dead
+Dima -150 dead
+Vasya -120 dead
+Kolya -120 dead
+Dima -150 dead
+Vasya -135 dead
+Kolya -120 dead
+Dima -150 dead
+Vasya 1000 alive
+Kolya 1000 alive
+Dima 985 alive
+Vasya 1000 alive
+Kolya 985 alive
+Dima 985 alive
+Vasya 1000 alive
+Kolya 985 alive
+Dima 970 alive
+Vasya 1000 alive
+Kolya 985 alive
+Dima 955 alive
+Vasya 1000 alive
+Kolya 970 alive
+Dima 955 alive
+Vasya 985 alive
+Kolya 970 alive
+Dima 955 alive
+Vasya 970 alive
+Kolya 970 alive
+Dima 955 alive
+Vasya 970 alive
+Kolya 955 alive
+Dima 955 alive
+Vasya 970 alive
+Kolya 940 alive
+Dima 955 alive
+Vasya 970 alive
+Kolya 940 alive
+Dima 940 alive
+Vasya 970 alive
+Kolya 925 alive
+Dima 940 alive
+Vasya 955 alive
+Kolya 925 alive
+Dima 940 alive
+Vasya 940 alive
+Kolya 925 alive
+Dima 940 alive
+Vasya 940 alive
+Kolya 925 alive
+Dima 925 alive
+Vasya 925 alive
+Kolya 925 alive
+Dima 925 alive
+Vasya 925 alive
+Kolya 910 alive
+Dima 925 alive
+Vasya 925 alive
+Kolya 910 alive
+Dima 910 alive
+Vasya 925 alive
+Kolya 910 alive
+Dima 895 alive
+Vasya 910 alive
+Kolya 910 alive
+Dima 895 alive
+Vasya 910 alive
+Kolya 910 alive
+Dima 880 alive
+Vasya 910 alive
+Kolya 910 alive
+Dima 865 alive
+Vasya 895 alive
+Kolya 910 alive
+Dima 865 alive
+Vasya 895 alive
+Kolya 910 alive
+Dima 850 alive
+Vasya 880 alive
+Kolya 910 alive
+Dima 850 alive
+Vasya 880 alive
+Kolya 910 alive
+Dima 835 alive
+Vasya 880 alive
+Kolya 910 alive
+Dima 820 alive
+Vasya 865 alive
+Kolya 910 alive
+Dima 820 alive
+Vasya 865 alive
+Kolya 895 alive
+Dima 820 alive
+Vasya 865 alive
+Kolya 880 alive
+Dima 820 alive
+Vasya 865 alive
+Kolya 880 alive
+Dima 805 alive
+Vasya 865 alive
+Kolya 865 alive
+Dima 805 alive
+Vasya 850 alive
+Kolya 865 alive
+Dima 805 alive
+Vasya 850 alive
+Kolya 850 alive
+Dima 805 alive
+Vasya 850 alive
+Kolya 835 alive
+Dima 805 alive
+Vasya 835 alive
+Kolya 835 alive
+Dima 805 alive
+Vasya 835 alive
+Kolya 820 alive
+Dima 805 alive
+Vasya 820 alive
+Kolya 820 alive
+Dima 805 alive
+Vasya 820 alive
+Kolya 805 alive
+Dima 805 alive
+Vasya 820 alive
+Kolya 790 alive
+Dima 805 alive
+Vasya 820 alive
+Kolya 790 alive
+Dima 790 alive
+Vasya 820 alive
+Kolya 790 alive
+Dima 775 alive
+Vasya 805 alive
+Kolya 790 alive
+Dima 775 alive
+Vasya 790 alive
+Kolya 790 alive
+Dima 775 alive
+Vasya 775 alive
+Kolya 790 alive
+Dima 775 alive
+Vasya 760 alive
+Kolya 790 alive
+Dima 775 alive
+Vasya 745 alive
+Kolya 790 alive
+Dima 775 alive
+Vasya 745 alive
+Kolya 790 alive
+Dima 760 alive
+Vasya 730 alive
+Kolya 790 alive
+Dima 760 alive
+Vasya 715 alive
+Kolya 790 alive
+Dima 760 alive
+Vasya 700 alive
+Kolya 790 alive
+Dima 760 alive
+Vasya 685 alive
+Kolya 790 alive
+Dima 760 alive
+Vasya 685 alive
+Kolya 790 alive
+Dima 745 alive
+Vasya 685 alive
+Kolya 775 alive
+Dima 745 alive
+Vasya 685 alive
+Kolya 775 alive
+Dima 730 alive
+Vasya 670 alive
+Kolya 775 alive
+Dima 730 alive
+Vasya 655 alive
+Kolya 775 alive
+Dima 730 alive
+Vasya 655 alive
+Kolya 775 alive
+Dima 715 alive
+Vasya 640 alive
+Kolya 775 alive
+Dima 715 alive
+Vasya 640 alive
+Kolya 775 alive
+Dima 700 alive
+Vasya 625 alive
+Kolya 775 alive
+Dima 700 alive
+Vasya 625 alive
+Kolya 775 alive
+Dima 685 alive
+Vasya 625 alive
+Kolya 760 alive
+Dima 685 alive
+Vasya 625 alive
+Kolya 745 alive
+Dima 685 alive
+Vasya 625 alive
+Kolya 730 alive
+Dima 685 alive
+Vasya 625 alive
+Kolya 730 alive
+Dima 670 alive
+Vasya 625 alive
+Kolya 715 alive
+Dima 670 alive
+Vasya 625 alive
+Kolya 700 alive
+Dima 670 alive
+Vasya 625 alive
+Kolya 700 alive
+Dima 655 alive
+Vasya 610 alive
+Kolya 700 alive
+Dima 655 alive
+Vasya 610 alive
+Kolya 700 alive
+Dima 640 alive
+Vasya 610 alive
+Kolya 685 alive
+Dima 640 alive
+Vasya 610 alive
+Kolya 685 alive
+Dima 625 alive
+Vasya 610 alive
+Kolya 685 alive
+Dima 610 alive
+Vasya 595 alive
+Kolya 685 alive
+Dima 610 alive
+Vasya 595 alive
+Kolya 670 alive
+Dima 610 alive
+Vasya 580 alive
+Kolya 670 alive
+Dima 610 alive
+Vasya 580 alive
+Kolya 670 alive
+Dima 595 alive
+Vasya 580 alive
+Kolya 670 alive
+Dima 580 alive
+Vasya 580 alive
+Kolya 670 alive
+Dima 565 alive
+Vasya 580 alive
+Kolya 655 alive
+Dima 565 alive
+Vasya 580 alive
+Kolya 640 alive
+Dima 565 alive
+Vasya 580 alive
+Kolya 625 alive
+Dima 565 alive
+Vasya 565 alive
+Kolya 625 alive
+Dima 565 alive
+Vasya 565 alive
+Kolya 610 alive
+Dima 565 alive
+Vasya 565 alive
+Kolya 610 alive
+Dima 550 alive
+Vasya 550 alive
+Kolya 610 alive
+Dima 550 alive
+Vasya 535 alive
+Kolya 610 alive
+Dima 550 alive
+Vasya 520 alive
+Kolya 610 alive
+Dima 550 alive
+Vasya 520 alive
+Kolya 595 alive
+Dima 550 alive
+Vasya 505 alive
+Kolya 595 alive
+Dima 550 alive
