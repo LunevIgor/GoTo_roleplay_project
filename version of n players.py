@@ -3,22 +3,34 @@ import random
 
 def atack(num):
     for i in range (0,num):
-        game.player_attack_class(vasya)
-        game.players_status()
-        game.log('log.txt')
-        game.player_attack_class(kolya)
-        game.players_status()
-        game.log('log.txt')
-        game.player_attack_class(dima)
-        game.players_status()
-        game.log('log.txt')
+        if kolya.status!='dead' and vasya.status!='dead':
+            game.player_attack_class(vasya,kolya)
+            game.players_status()
+            game.log('log.txt')
+        if dima.status!='dead' and kolya.status!='dead':
+            game.player_attack_class(kolya,dima)
+            game.players_status()
+            game.log('log.txt')
+        if vasya.status!='dead' and dima.status!='dead':
+            game.player_attack_class(dima,vasya)
+            game.players_status()
+            game.log('log.txt')
+        if vasya.status==dima.status==kolya.status=='dead':
+            break
+        elif vasya.status==dima.status=='dead':
+            break
+        elif dima.status==kolya.status=='dead':
+            break
+        elif vasya.status==kolya.status=='dead':
+            break
+        
 
 class Player:
     def __init__(self, name,strength=10,dex=10,intel=10,weapon=5,status='alive'):
         self.h = 30+7*strength
         self.name = name
         self.str=strength
-        self.dmg=sself.str+weapon
+        self.dmg=self.str+weapon
         self.int=intel
         self.mp=self.int+10
         self.dext=dex
@@ -71,7 +83,4 @@ dima = game.add_player("Dima")
 
 game.players_status()
 
-atack(1)
-
-inf = [p.__dict__ for p in game.players]
-print(inf)
+atack(100000000000)
