@@ -7,6 +7,7 @@ def atack(p1,p2):
     p1.save()
     s=''
     s=str(p2.name)+"atacked"+str(p1.name)
+    return (s)
 
 
 class Player:
