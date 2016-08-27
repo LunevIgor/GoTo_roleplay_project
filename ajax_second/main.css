@@ -1,0 +1,9 @@
+body {
+    background-image: url(zamok.jpg);
+}
+.container {
+    border: double;
+    background-color: white;
+}
+
+.hidden{visibility: hidden}
