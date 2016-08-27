@@ -1,5 +1,13 @@
 import random
         
+def atack(p1,p2):
+    game = Game()
+    game.players_status()
+    p1.h=p1.h-p2.dmg
+    p1.save()
+    s=''
+    s=str(p2.name)+"atacked"+str(p1.name)
+
 
 class Player:
     def __init__(self, name,strength=10,dex=10,intel=10,weapon=5,status='alive'):
@@ -43,10 +51,4 @@ class Game:
                 p.status='dead'
 
 
-game = Game()
-
-
-game.players_status()
-
-p1.h=p1.h-p2.dmg
-p1.save()
+atack(p1,p2)
