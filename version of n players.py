@@ -1,28 +1,4 @@
 import random
-
-
-def atack(num):
-    for i in range (0,num):
-        if kolya.status!='dead' and vasya.status!='dead':
-            game.player_attack_class(vasya,kolya)
-            game.players_status()
-            game.log('log.txt')
-        if dima.status!='dead' and kolya.status!='dead':
-            game.player_attack_class(kolya,dima)
-            game.players_status()
-            game.log('log.txt')
-        if vasya.status!='dead' and dima.status!='dead':
-            game.player_attack_class(dima,vasya)
-            game.players_status()
-            game.log('log.txt')
-        if vasya.status==dima.status==kolya.status=='dead':
-            break
-        elif vasya.status==dima.status=='dead':
-            break
-        elif dima.status==kolya.status=='dead':
-            break
-        elif vasya.status==kolya.status=='dead':
-            break
         
 
 class Player:
@@ -54,12 +30,6 @@ class Game:
                 print(p.name,p.h,p.status, file=fout)
 
                 
-    def player_hit(self,name,dmg=50):
-        for i in self.players:
-            if i.name==name:
-                i.h=i.h-dmg
-
-                
     def player_attack_class(self, p1,p2=None):
         if not p2:
             p2 = random.choice(self.players)
@@ -76,11 +46,7 @@ class Game:
 game = Game()
 
 
-vasya = game.add_player("Vasya")
-kolya = game.add_player("Kolya")
-dima = game.add_player("Dima")
-
-
 game.players_status()
 
-atack(100000000000000)
+p1.h=p1.h-p2.dmg
+p1.save()
