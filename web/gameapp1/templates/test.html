@@ -1,0 +1,24 @@
+{% extends 'base.html' %}
+
+
+{% block title%}index page{% endblock %}
+
+{% block content %}
+
+
+    {{ a }}
+    {{ b }}
+<ul>
+    {% for key in dict.items %}
+        <li>{{ key }} {{ element }}</li>
+    {% endfor %}
+
+    {% if c %}
+        got c {{ c }}
+    {% else %}
+        not c
+    {% endif %}
+</ul>
+
+
+{% endblock %}

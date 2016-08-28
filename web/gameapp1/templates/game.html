@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>game.name</title>
+{% block content %}
+<ul>
+    {% for player in players %}
+        <li>
+            <a href="/player/{{ player.id }}">
+                {{ player.name }}
+            </a>
+        </li>
+    {% endfor %}
+</ul>
+{% endblock %}
+</html>
