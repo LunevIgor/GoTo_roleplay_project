@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+
+
+{% block title%}index page{% endblock %}
+
+{% block content %}
+
+<ul>
+    {% for game in games %}
+        <li>
+            <a href="/game/{{ game.id }}">
+            {{ game.name }}
+            </a>
+        {{game.created}}
+        </li>
+    {% endfor %}
+</ul>
+
+
+{% endblock %}
